@@ -1,6 +1,6 @@
 
 plugins {
-    kotlin("jvm") version "1.9.0-Beta"
+    kotlin("jvm") version "1.9.10"
 }
 
 repositories {
